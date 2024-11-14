@@ -1,0 +1,10 @@
+/*Шрифт заголовков*/
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat-Black"),
+         url("Montserrat/Montserrat-Black.woff2") format("woff2"),
+         url("Montserrat/Montserrat-Black.woff") format("woff"),
+         url("Montserrat/Montserrat-Black.ttf") format("truetype");
+}
